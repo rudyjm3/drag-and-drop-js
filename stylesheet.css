@@ -41,5 +41,5 @@ body{
 }
 .wrapper .item i{
   font-size: 18px;
-  cursor: grab;
+  cursor: move;
 }
